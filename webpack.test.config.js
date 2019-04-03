@@ -21,6 +21,4 @@ const config = merge(commonConfig, {
   }
 });
 
-console.log(config.module.rules);
-
 module.exports = config;
